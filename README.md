@@ -3,7 +3,7 @@
 Normal Train-Test split does not give an indication of how well the model will perform to an unseen data set. Hence we choose cross validation to ensure that all data is considered in training and testing at some point.
 
 Cross-Validation
-- resampling technique that helps to make our model sure about its efficiency and accuracy on the unseen data. 
+- Resampling technique that helps to make our model sure about its efficiency and accuracy on the unseen data. 
 - It is a method for evaluating Machine Learning models by training several other Machine learning models on subsets of the available input data set and evaluating them on the subset of the data set.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
